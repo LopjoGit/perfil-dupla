@@ -4,7 +4,7 @@
 FunGang
 
 ## Cor favorita da dupla
-Ciano
+azul
 
 ## Comida favorita da dupla
 Espageti
