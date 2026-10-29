@@ -4,7 +4,7 @@
 FunGang
 
 ## Cor favorita da dupla
-Rosa
+azul
 
 ## Comida favorita da dupla
 Espageti
@@ -13,3 +13,5 @@ a mae de todo mundo
 ## Frase da dupla
 O meu doce meu doce...suco de maracuja sombrio e mais sombrio..
 
+## Série ou filme favorito da dupla
+série emergencia radio ativa, filme trapa de eliti 1, e 2
