@@ -1,13 +1,15 @@
 # Perfil da Dupla
 
 ## Nome da dupla
-adolf hitler e erika hilton
+FunGang
 
 ## Cor favorita da dupla
-rosa
+Rosa
 
 ## Comida favorita da dupla
+Espageti
 a mae de todo mundo
 
 ## Frase da dupla
-ai meu doce de maracuja ai meudoce de maracuja
+O meu doce meu doce...suco de maracuja sombrio e mais sombrio..
+
