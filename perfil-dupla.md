@@ -1,13 +1,13 @@
 # Perfil da Dupla
 
 ## Nome da dupla
-Banana2people
+FunGang
 
 ## Cor favorita da dupla
-Roxo
+Hatsune Miku
 
 ## Comida favorita da dupla
-Acai
+Espageti
 
 ## Frase da dupla
-so nao sei que sla a ratoeira roeu o rato
+Sombrio e mais sombrio...
