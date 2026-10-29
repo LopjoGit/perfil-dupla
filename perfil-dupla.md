@@ -1,13 +1,13 @@
 # Perfil da Dupla
 
 ## Nome da dupla
-Banana2people
+adolf hitler e erika hilton
 
 ## Cor favorita da dupla
-Roxo
+rosa
 
 ## Comida favorita da dupla
-Acai
+a mae de todo mundo
 
 ## Frase da dupla
-so nao sei que sla a ratoeira roeu o rato
+ai meu doce de maracuja ai meudoce de maracuja
